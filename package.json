@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/asifthewebguy/wpchanger/issues"
   },
-  "homepage": "https://github.com/asifthewebguy/wpchanger#readme"
+  "homepage": "https://github.com/asifthewebguy/wpchanger#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
