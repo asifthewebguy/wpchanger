@@ -1,0 +1,26 @@
+{
+  "name": "wpchanger",
+  "version": "1.0.0",
+  "description": "changes wallpaper, thats it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asifthewebguy/wpchanger.git"
+  },
+  "keywords": [
+    "wallpaper",
+    "changer",
+    "wallpaler",
+    "changer",
+    "nodejs"
+  ],
+  "author": "AsifTheWebGuy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/asifthewebguy/wpchanger/issues"
+  },
+  "homepage": "https://github.com/asifthewebguy/wpchanger#readme"
+}
